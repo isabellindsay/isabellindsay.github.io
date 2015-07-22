@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Fresca);
+
+body{
+  font-family: 'Fresca', sans-serif; /*use Fresca if you have it, then sans-serif if not*/
+  background:rgb(236, 223, 236);
+  margin: auto;
+}
+
+p{
+  color:navy;
+  width:800px;
+  margin:auto;
+  border:20px navy;
+  font-size: large;
+}
+
+.seemyotherpages{
+  color:deeppink;
+  width:1600px;
+  border:1px navy;
+}
+
+h3{
+  font-size: large;
+}
+
+h4{
+  font-size: medium;
+}
