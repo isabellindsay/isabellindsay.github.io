@@ -3,21 +3,13 @@
 body{
   font-family: 'Fresca', sans-serif; /*use Fresca if you have it, then sans-serif if not*/
   background:rgb(236, 223, 236);
-  margin: auto;
+  text-align: center;
 }
 
 p{
   color:navy;
-  width:800px;
-  margin:auto;
-  border:20px navy;
+  border:5px solid navy;
   font-size: large;
-}
-
-.seemyotherpages{
-  color:deeppink;
-  width:1600px;
-  border:1px navy;
 }
 
 h3{
@@ -26,4 +18,8 @@ h3{
 
 h4{
   font-size: medium;
+}
+
+.seemyotherpages{
+  color:deeppink;
 }
